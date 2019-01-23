@@ -50,6 +50,7 @@ This advanced course introduces students to the concepts and techniques of inter
 ### HTML Symbols, Entities, Characters and Codes
 
 - [HTML Symbols, Entities, Characters and Codes](https://htmlarrows.com)
+- [Charcod.es](https://charcod.es)
 
 ### Supplemental
 
@@ -60,7 +61,7 @@ This advanced course introduces students to the concepts and techniques of inter
 14 meetings; Wednesday at 1:25–4:05 pm and via Slack.
 
 1. [Week 1](#week-1), January 16
-2. Week 2, January 23
+2. [Week 2](#week-2), January 23
 3. Week 3, January 30
 4. February 6
 5. February 13
@@ -103,6 +104,30 @@ This advanced course introduces students to the concepts and techniques of inter
 - [The Benefits of Semantic HTML](https://talum.github.io/blog/2015/12/21/the-benefits-of-semantic-html/) by [Tracy Lum](http://talum.github.io)
 
 
+## Week 2
+
+### Project
+
+- Continue marking up [recipe](#recipe) content in HTML and consider basic styles for text elements
+
+### GitHub
+
+- Create Recipe repo and commit incremental changes
+
+### Course
+
+- [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) — Register, enroll, and review Lesson 1, 2, 3, and 4
+
+### Readings
+
+- [MarkSheet: HTML Basic](https://marksheet.io/html-basics.html) (2.1–2.7)
+- [MarkSheet: HTML Text](https://marksheet.io/html-text.html) (3.2)
+- [MarkSheet: Inline semantics](https://marksheet.io/html-inline-semantics.html) (3.3)
+- [A brief history of CSS until 2016](https://www.w3.org/Style/CSS20/history.html)
+- [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+- [Graphic Design as a Liberal Art](http://jarrettfuller.com/projects/liberalart)
+
+
 ## Projects
 
 ### Recipe
@@ -113,6 +138,10 @@ Choose a cooking/baking recipe to share *(and make)*.
   - Consider what each content chunk and phrase is and about
 - Use proper [typographical characters](http://htmlarrows.com) for numbers, punctuation, symbols, etc.
 - Photograph the final product (and/or the steps [optional])
+- Develop the look and feel of your content
+  - Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-work)
+    - Develop a [color palette](https://htmlcolorcodes.com) based on the colors of your recipe (imagery)
+    - Use only web-safe fonts, serif or sans-serif, or [both](https://www.cssfontstack.com) (≥90% Win/Mac)
 
 #### References
 
@@ -120,11 +149,14 @@ Choose a cooking/baking recipe to share *(and make)*.
 - [HTML Lists](https://webplatform.github.io/docs/guides/html_lists/)
 - [The `dl` element](http://html5doctor.com/the-dl-element/)
 - [HTML Validation Tool](https://validator.w3.org/nu/) Check your work.
+- [Alt text is part of your site’s content](http://centercentre.com/blog/2016-06-30-alt-text-is-part-of-your-sites-content)
+- [Web-Safe Fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web)
 
 #### Inspect
 
 - Quick Start: [Starbucks Coffee Bean Peanut Brittle](https://news.starbucks.com/news/starbucks-coffee-bean-peanut-brittle-recipe)
 - Furthermore: [A Coffee Ritual, Baked Not Brewed](https://1912pike.com/a-coffee-ritual-baked-not-brewed/)
+
 
 ## Tools
 
