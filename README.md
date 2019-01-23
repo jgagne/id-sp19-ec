@@ -4,7 +4,7 @@
 
 - Wednesday, 1:25–4:05 pm, ADM 535
 - Instructor: Justin Gagne
-- Email: `gagnej5@emmanuel.edu`
+- Email: `gagnej@emmanuel.edu`
 - Office Hours: TBA
 - Class Workspace on Slack — Where Work Happens™
 - Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
