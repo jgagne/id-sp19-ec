@@ -141,7 +141,7 @@ Choose a cooking/baking recipe to share *(and make)*.
 - Develop the look and feel of your content
   - Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-work)
     - Develop a [color palette](https://htmlcolorcodes.com) based on the colors of your recipe (imagery)
-    - Use only web-safe fonts, serif or sans-serif, or [both](https://www.cssfontstack.com) (≥90% Win/Mac)
+    - Use only [web-safe fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web), serif or sans-serif, or [both](https://www.cssfontstack.com) (≥90% Win/Mac)
 
 #### References
 
