@@ -3,10 +3,10 @@
 # Interactive Design
 
 - Wednesday, 1:25–4:05 pm, ADM 535
+- Class Workspace: [Slack](https://id-sp19-ec.slack.com) — Where Work Happens™
+- Office Hours: ½ hour before/after class or by appointment (via Slack)
 - Instructor: Justin Gagne
 - Email: `gagnej@emmanuel.edu`
-- Office Hours: TBA
-- Class Workspace on Slack — Where Work Happens™
 - Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
 
 - - -
