@@ -62,7 +62,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 1. [Week 1](#week-1), January 16
 2. [Week 2](#week-2), January 23
-3. Week 3, January 30
+3. [Week 3](#week-3), January 30
 4. February 6
 5. February 13
 6. February 20
@@ -110,10 +110,6 @@ This advanced course introduces students to the concepts and techniques of inter
 
 - Continue marking up [recipe](#recipe) content in HTML and consider basic styles for text elements
 
-### GitHub
-
-- Create Recipe repo and commit incremental changes
-
 ### Course
 
 - [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) — Register, enroll, and review Lesson 1, 2, 3, and 4
@@ -126,6 +122,40 @@ This advanced course introduces students to the concepts and techniques of inter
 - [A brief history of CSS until 2016](https://www.w3.org/Style/CSS20/history.html)
 - [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 - [Graphic Design as a Liberal Art](http://jarrettfuller.com/projects/liberalart)
+
+
+## Week 3
+
+- Continue to mark up and review [recipe](#recipe) content in HTML and created basic styles in CSS for typography, color, and spacing based on style tile
+
+### GitHub
+
+- Create Recipe repo `recipe-markup` and commit incremental changes
+
+### Review
+
+- [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/)
+- [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+
+### Readings
+
+- [Everything Easy is Hard Again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
+- [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors)
+- [CSS Basics](https://marksheet.io/css-basics.html)
+- [CSS Text](https://marksheet.io/css-text.html)
+- [CSS Box Model](https://marksheet.io/css-box-model.html)
+- [Web Typography](https://internetingishard.com/html-and-css/web-typography/)
+- [Unitless line-heights](http://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
+- [What’s the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
+
+# References
+
+- [CSS Font Stack](https://www.cssfontstack.com) Web safe font families
+- [Font Family Reunion](http://fontfamily.io) Compatibility tables for default local fonts
+- [Butterick’s Practical Typography](https://practicaltypography.com)
+- [Accessible Colors](http://accessible-colors.com) Test accessible web color combinations
+- [CSS Reference](https://cssreference.io)
+- [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
 
 
 ## Projects
@@ -142,6 +172,8 @@ Choose a cooking/baking recipe to share *(and make)*.
   - Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-work)
     - Develop a [color palette](https://htmlcolorcodes.com) based on the colors of your recipe (imagery)
     - Use only [web-safe fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web), serif or sans-serif, or [both](https://www.cssfontstack.com) (≥90% Win/Mac)
+- Use an [external stylesheet](https://learn.shayhowe.com/html-css/building-your-first-web-page/#referencing-css)
+  - For example: `<link rel="stylesheet" href="css/main.css">`
 
 #### References
 
