@@ -132,6 +132,10 @@ This advanced course introduces students to the concepts and techniques of inter
 
 - Create Recipe repo `recipe-markup` and commit incremental changes
 
+### Course
+
+- [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) — Lesson 4: Getting Started With CSS
+
 ### Review
 
 - [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/)
