@@ -52,6 +52,10 @@ This advanced course introduces students to the concepts and techniques of inter
 - [HTML Symbols, Entities, Characters and Codes](https://htmlarrows.com)
 - [Charcod.es](https://charcod.es)
 
+### Title Capitalization
+
+- [TitleCap](http://titlecapitalization.com) Automatically Capitalize Your Title
+
 ### Supplemental
 
 - [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) Free online course for step-by-step reference.
@@ -140,11 +144,13 @@ This advanced course introduces students to the concepts and techniques of inter
 
 - [The i, b, em, & strong elements](http://html5doctor.com/i-b-em-strong-element/)
 - [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+- [If you’ve ever had doubts about how to mark up subheadings](https://medium.com/@barvysta/if-youve-ever-had-doubts-about-how-to-mark-up-subheadings-220cbe97c361)
 
 ### Readings
 
 - [Everything Easy is Hard Again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
 - [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors)
+- [CSS: From Zero to Hero](https://dev.to/aspittel/css-from-zero-to-hero-3o16) — A brilliant primer on CSS
 - [CSS Basics](https://marksheet.io/css-basics.html)
 - [CSS Text](https://marksheet.io/css-text.html)
 - [CSS Box Model](https://marksheet.io/css-box-model.html)
