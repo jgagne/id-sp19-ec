@@ -168,6 +168,25 @@ This advanced course introduces students to the concepts and techniques of inter
 - [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
 
 
+## Week 4
+
+- Focus on applying typographic styles with [meaningful HTML classes & CSS class selectors]((https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard) to your [recipe](#recipe).
+- Focus on the use of [web-safe fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web) and [accesible colors](http://accessible-colors.com)
+- Focus on a mobile first layout that is responsive to a wider screen breakpoint (using media queries to tweak content for spacing, line length, and readability)
+
+### Readings
+
+- [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
+- [Responsive Web Design](https://alistapart.com/article/responsive-web-design)
+- [Responsive questions](https://adactio.com/journal/5351)
+
+### References
+
+- [How we learned to leave default font-size alone and embrace the em](https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.htmls)
+- [HTML5 Boilerplate](https://html5boilerplate.com)
+- [CSS Normalize](https://necolas.github.io/normalize.css/)
+
+
 ## Projects
 
 ### Recipe
