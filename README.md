@@ -200,16 +200,20 @@ Choose a cooking/baking recipe to share *(and make)*.
 - Develop the look and feel of your content
   - Create a [style tile](https://alistapart.com/article/style-tiles-and-how-they-work)
     - Develop a [color palette](https://htmlcolorcodes.com) based on the colors of your recipe (imagery)
-    - Use only [web-safe fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web), serif or sans-serif, or [both](https://www.cssfontstack.com) (≥90% Win/Mac)
+    - Use [accesible colors](http://accessible-colors.com) for accessible color contrasts
+    - Use [web-safe fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web), serif or sans-serif, or [both](https://www.cssfontstack.com) (≥90% Win/Mac)
 - Use an [external stylesheet](https://learn.shayhowe.com/html-css/building-your-first-web-page/#referencing-css)
   - For example: `<link rel="stylesheet" href="css/main.css">`
+- Use [meaningful HTML classes & CSS class selectors]((https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
+- Use a mobile first approach to layout that is responsive to a wider screen breakpoint (using media queries to tweak content for spacing, line length, and readability)
 
 #### References
 
 - See [HTML References](#html-references)
 - [HTML Lists](https://webplatform.github.io/docs/guides/html_lists/)
 - [The `dl` element](http://html5doctor.com/the-dl-element/)
-- [HTML Validation Tool](https://validator.w3.org/nu/) Check your work.
+- [HTML Validation Tool](https://validator.w3.org/nu/) — Check your markup
+- [CSS Validation Tool](https://jigsaw.w3.org/css-validator/) — Check your style
 - [Alt text is part of your site’s content](http://centercentre.com/blog/2016-06-30-alt-text-is-part-of-your-sites-content)
 - [Web-Safe Fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web)
 
