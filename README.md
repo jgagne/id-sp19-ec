@@ -170,7 +170,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ## Week 4
 
-- Focus on applying typographic styles with [meaningful HTML classes & CSS class selectors]((https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard) to your [recipe](#recipe).
+- Focus on applying typographic styles with [meaningful HTML classes & CSS class selectors](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard) to your [recipe](#recipe).
 - Focus on the use of [web-safe fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web) and [accesible colors](http://accessible-colors.com)
 - Focus on a mobile first layout that is responsive to a wider screen breakpoint (using media queries to tweak content for spacing, line length, and readability)
 
