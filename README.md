@@ -176,6 +176,8 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ### Readings
 
+- [Reboot, Resets, and Reasoning](https://css-tricks.com/reboot-resets-reasoning/)
+- [A look at CSS Resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
 - [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [Responsive Web Design](https://alistapart.com/article/responsive-web-design)
 - [Responsive questions](https://adactio.com/journal/5351)
