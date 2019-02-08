@@ -209,6 +209,10 @@ Choose a cooking/baking recipe to share *(and make)*.
 - Use [meaningful HTML classes & CSS class selectors]((https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - Use a mobile first approach to layout that is responsive to a wider screen breakpoint (using media queries to tweak content for spacing, line length, and readability)
 
+#### Helpful Hints
+
+- [Recipe Markup](https://github.com/jgagne/recipe-markup) `demo`
+
 #### References
 
 - See [HTML References](#html-references)
