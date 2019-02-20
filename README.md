@@ -67,10 +67,10 @@ This advanced course introduces students to the concepts and techniques of inter
 1. [Week 1](#week-1), January 16
 2. [Week 2](#week-2), January 23
 3. [Week 3](#week-3), January 30
-4. February 6
-5. February 13
-6. February 20
-7. February 27
+4. [Week 4](#week-4), February 6
+5. [Week 5](#week-5), February 13
+6. [Week 6](#week-6), February 20
+7. [Week 7](#week-7), February 27
   - **No Class** — March 6 (Spring Break)
 8. March 13
 9. March 20
@@ -188,6 +188,23 @@ This advanced course introduces students to the concepts and techniques of inter
 - [HTML5 Boilerplate](https://html5boilerplate.com)
 - [CSS Normalize](https://necolas.github.io/normalize.css/)
 
+## Week 5
+
+- Wrap-up [Recipe](#recipe) markup, style, and repo
+
+## Week 6
+
+- Wrap-up [Recipe](#recipe) and being [Theme](#theme)
+
+### re: [Theme](#theme)
+
+- Content First (Text/Image): Copy, paste, clean, and markup content from Wikipedia page
+- Create separate HTML pages for each section and link them together
+- Link an external stylesheet `main.css` to all pages
+
+## Week 7
+
+- Working remotely via Slack
 
 ## Projects
 
@@ -228,6 +245,14 @@ Choose a cooking/baking recipe to share *(and make)*.
 - Quick Start: [Starbucks Coffee Bean Peanut Brittle](https://news.starbucks.com/news/starbucks-coffee-bean-peanut-brittle-recipe)
 - Furthermore: [A Coffee Ritual, Baked Not Brewed](https://1912pike.com/a-coffee-ritual-baked-not-brewed/)
 
+
+### Theme
+
+Choose a single subject, topic, or theme from [Wikipedia](https://wikipedia.org) and design a multi-page website that enhances the experience of content through meaningful HTML and functional CSS and layout for mobile first to wider screens.
+
+#### Helpful Tools
+
+- [Textise](https://www.textise.net) — Text-Only and Accessibility Tools
 
 ## Tools
 
