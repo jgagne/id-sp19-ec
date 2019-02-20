@@ -200,7 +200,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ## Week 7
 
-- Working remotely via Slack
+- Working remotely via Slack — same day, same time, but from anywhere you’d like (school, home, etc.)
 
 ## Projects
 
