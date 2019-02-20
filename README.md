@@ -219,7 +219,7 @@ Choose a cooking/baking recipe to share *(and make)*.
     - Use [web-safe fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web), serif or sans-serif, or [both](https://www.cssfontstack.com) (≥90% Win/Mac)
 - Use an [external stylesheet](https://learn.shayhowe.com/html-css/building-your-first-web-page/#referencing-css)
   - For example: `<link rel="stylesheet" href="css/main.css">`
-- Use [meaningful HTML classes & CSS class selectors]((https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
+- Use [meaningful HTML classes & CSS class selectors](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - Use a mobile first approach to layout that is responsive to a wider screen breakpoint (using media queries to tweak content for spacing, line length, and readability)
 
 #### Helpful Hints
