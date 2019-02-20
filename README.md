@@ -52,10 +52,6 @@ This advanced course introduces students to the concepts and techniques of inter
 - [HTML Symbols, Entities, Characters and Codes](https://htmlarrows.com)
 - [Charcod.es](https://charcod.es)
 
-### Title Capitalization
-
-- [TitleCap](http://titlecapitalization.com) Automatically Capitalize Your Title
-
 ### Supplemental
 
 - [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) Free online course for step-by-step reference.
@@ -294,6 +290,11 @@ Browsers *other than* Chrome (or Safari). See [Switchin’ to Firefox](https://r
 
 - [Blendy](https://blendy.ml) CSS background blend modes preview tool.
 - [Shapy](https://shapy.app) CSS gradients shape editor.
+
+### Text Tools
+
+- [TitleCap](http://titlecapitalization.com) Automatically Capitalize Your Title
+- [Textise](https://www.textise.net) Text-Only and Accessibility Tools
 
 ### Developer Tools
 
