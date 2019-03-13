@@ -216,7 +216,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ### Bootstrap Comp Demo
 
-- [Bootstrap Comp Demo](https://github.com/jgagne/id-sp19-ec/demos/bootstrap-comp.zip) — Comping basic layout using Bootstrap as a foundational framework
+- [Bootstrap Comp Demo](https://github.com/jgagne/id-sp19-ec/blob/master/demos/bootstrap-comp.zip) — Comping basic layout using Bootstrap as a foundational framework
 
 ### Hiding Content
 
