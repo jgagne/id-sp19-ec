@@ -68,7 +68,7 @@ This advanced course introduces students to the concepts and techniques of inter
 6. [Week 6](#week-6), February 20
 7. [Week 7](#week-7), February 27
   - **No Class** — March 6 (Spring Break)
-8. March 13
+8. [Week 8](#week-8), March 13
 9. March 20
 10. March 27
 11. April 3
@@ -201,6 +201,38 @@ This advanced course introduces students to the concepts and techniques of inter
 ## Week 7
 
 - Working remotely via Slack — same day, same time, but from anywhere you’d like (school, home, etc.)
+
+## Week 8
+
+- Review navigation markup and best practices
+- Introduction to Bootstrap as a framework for prototyping layout
+- Develop layout for [Theme](#theme) (Project 2)
+
+### Theme Layout
+
+- Begin with sketches of your wiki theme layout redesign — mobile first, then for a wider screen
+- Use Bootstrap’s stylesheet, `bootstrap.css`, as the foundation for layout
+- Use a your own stylesheet, `main.css`, for custom typography and colors
+
+### Bootstrap Comp Demo
+
+- [Bootstrap Comp Demo](https://github.com/jgagne/id-sp19-ec/demos/bootstrap-comp.zip) — Comping basic layout using Bootstrap as a foundational framework
+
+### Hiding Content
+
+- [How-to: Hide content](https://a11yproject.com/posts/how-to-hide-content/)
+- [Hide only visually](https://github.com/h5bp/html5-boilerplate/blob/751dc34d02c2ff24a4686910f8355d642eca3450/dist/css/main.css#L132-L151) — HTML5 Boilerplate
+- [Hamburger Menus and Hidden Navigation Hurt UX Metrics](https://www.nngroup.com/articles/hamburger-menus/)
+- [User interfaces: hiding stuff should be a last resort](https://adamsilver.io/articles/user-interfaces-hiding-stuff-should-be-a-last-resort/)
+
+### Bootstrap Framework
+
+- [Bootstrap 4](http://blog.getbootstrap.com/2018/01/18/bootstrap-4/)
+- [Get Started with Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/) —  Build responsive, mobile-first projects on the web with the world’s most popular front-end component library
+- [Grid Layout in Bootstrap 3](https://thegymnasium.com/courses/GYM/003/0/about) — Outdated, but provides the basics to get started `video`
+- [Learn Bootstrap 4 for free](scrimba.com/g/gbootstrap4)
+- [Learn Bootstrap 4 in 30 minutes by building a landing page website](https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33)
+
 
 ## Projects
 
