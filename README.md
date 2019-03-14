@@ -218,12 +218,23 @@ This advanced course introduces students to the concepts and techniques of inter
 
 - [Bootstrap Comp Demo](https://github.com/jgagne/id-sp19-ec/blob/master/demos/bootstrap-comp.zip) — Comping basic layout using Bootstrap as a foundational framework
 
+### Navigation Interaction
+
+- [When do the :hover, :focus, and :active pseudo-classes apply?](https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/)
+- [How to easily build Mashable’s navigation bar with HTML and CSS](https://medium.freecodecamp.org/how-to-easily-build-mashables-navigation-bar-with-html-and-css-9e5007af786)
+
 ### Hiding Content
 
 - [How-to: Hide content](https://a11yproject.com/posts/how-to-hide-content/)
 - [Hide only visually](https://github.com/h5bp/html5-boilerplate/blob/751dc34d02c2ff24a4686910f8355d642eca3450/dist/css/main.css#L132-L151) — HTML5 Boilerplate
 - [Hamburger Menus and Hidden Navigation Hurt UX Metrics](https://www.nngroup.com/articles/hamburger-menus/)
 - [User interfaces: hiding stuff should be a last resort](https://adamsilver.io/articles/user-interfaces-hiding-stuff-should-be-a-last-resort/)
+
+### Hide & Show Content
+
+- [`<details>`: The Details disclosure element
+](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+- [Quick Reminder that Details/Summary is the Easiest Way Ever to Make an Accordion](https://css-tricks.com/quick-reminder-that-details-summary-is-the-easiest-way-ever-to-make-an-accordion/)
 
 ### Bootstrap Framework
 
