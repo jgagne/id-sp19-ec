@@ -225,6 +225,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ### Hiding Content
 
+- [See No Evil: Hidden Content and Accessibility](https://cloudfour.com/thinks/see-no-evil-hidden-content-and-accessibility/)
 - [How-to: Hide content](https://a11yproject.com/posts/how-to-hide-content/)
 - [Hide only visually](https://github.com/h5bp/html5-boilerplate/blob/751dc34d02c2ff24a4686910f8355d642eca3450/dist/css/main.css#L132-L151) — HTML5 Boilerplate
 - [Hamburger Menus and Hidden Navigation Hurt UX Metrics](https://www.nngroup.com/articles/hamburger-menus/)
