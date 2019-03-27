@@ -69,8 +69,8 @@ This advanced course introduces students to the concepts and techniques of inter
 7. [Week 7](#week-7), February 27
   - **No Class** — March 6 (Spring Break)
 8. [Week 8](#week-8), March 13
-9. March 20
-10. March 27
+9. [Week 9](#week-9), March 20
+10. [Week 10](#week-10) March 27
 11. April 3
 12. April 10
 13. April 17
@@ -95,7 +95,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ### Project
 
-- Mark up [recipe](#recipe) content in HTML
+- Mark up [recipe](#recipe-markup) content in HTML
 
 ### Readings
 
@@ -108,7 +108,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ### Project
 
-- Continue marking up [recipe](#recipe) content in HTML and consider basic styles for text elements
+- Continue marking up [recipe](#recipe-markup) content in HTML and consider basic styles for text elements
 
 ### Course
 
@@ -126,7 +126,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ## Week 3
 
-- Continue to mark up and review [recipe](#recipe) content in HTML and created basic styles in CSS for typography, color, and spacing based on style tile
+- Continue to mark up and review [recipe](#recipe-markup) content in HTML and created basic styles in CSS for typography, color, and spacing based on style tile
 
 ### GitHub
 
@@ -166,7 +166,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ## Week 4
 
-- Focus on applying typographic styles with [meaningful HTML classes & CSS class selectors](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard) to your [recipe](#recipe).
+- Focus on applying typographic styles with [meaningful HTML classes & CSS class selectors](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard) to your [recipe](#recipe-markup).
 - Focus on the use of [web-safe fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web) and [accesible colors](http://accessible-colors.com)
 - Focus on a mobile first layout that is responsive to a wider screen breakpoint (using media queries to tweak content for spacing, line length, and readability)
 
@@ -186,13 +186,13 @@ This advanced course introduces students to the concepts and techniques of inter
 
 ## Week 5
 
-- Wrap-up [Recipe](#recipe) markup, style, and repo
+- Wrap-up [Recipe Markup](#recipe-markup) markup, style, and repo
 
 ## Week 6
 
-- Wrap-up [Recipe](#recipe) and being [Theme](#theme)
+- Wrap-up [Recipe Markup](#recipe-markup) and being [Theme Style](#theme-style)
 
-### re: [Theme](#theme)
+### re: [Theme Style](#theme-style)
 
 - Content First (Text/Image): Copy, paste, clean, and markup content from Wikipedia page
 - Create separate HTML pages for each section and link them together
@@ -206,7 +206,7 @@ This advanced course introduces students to the concepts and techniques of inter
 
 - Review navigation markup and best practices
 - Introduction to Bootstrap as a framework for prototyping layout
-- Develop layout for [Theme](#theme) (Project 2)
+- Develop layout for [Theme Style](#theme-style) (Project 2)
 
 ### Theme Layout
 
@@ -245,10 +245,20 @@ This advanced course introduces students to the concepts and techniques of inter
 - [Learn Bootstrap 4 for free](scrimba.com/g/gbootstrap4)
 - [Learn Bootstrap 4 in 30 minutes by building a landing page website](https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33)
 
+## Week 9
+
+- In class work session
+
+## Week 10
+
+- Project 1, Recipe Markup
+  - **Reminder:** Complete scoring rubric tasklist (in the Issues tab of your project repo), if you haven't done so already
+- Project 2, Theme Style, due next week — Wednesday, April 3
+- Project 3, [Single Serving](#single-serving) — starts now (due April 24)
 
 ## Projects
 
-### Recipe
+### Recipe Markup
 
 Choose a cooking/baking recipe to share *(and make)*.
 
@@ -285,14 +295,24 @@ Choose a cooking/baking recipe to share *(and make)*.
 - Quick Start: [Starbucks Coffee Bean Peanut Brittle](https://news.starbucks.com/news/starbucks-coffee-bean-peanut-brittle-recipe)
 - Furthermore: [A Coffee Ritual, Baked Not Brewed](https://1912pike.com/a-coffee-ritual-baked-not-brewed/)
 
-
-### Theme
+### Theme Style
 
 Choose a single subject, topic, or theme from [Wikipedia](https://wikipedia.org) and design a multi-page website that enhances the experience of content through meaningful HTML and functional CSS and layout for mobile first to wider screens.
 
-#### Helpful Tools
+#### Text Tools
 
 - [Textise](https://www.textise.net) — Text-Only and Accessibility Tools
+
+### Single Serving
+
+Design a modern responsive single serving website — a single-page with a single-theme based on self-generated content; focusing on type, color, image, and layout (built using Bootstrap as a foundation).
+
+#### One Page Love
+
+- [Single Serving Sites](http://kottke.org/08/02/single-serving-sites)
+- [Purple, Obama, and Single Serving Websites](http://thehistoryoftheweb.com/purple-obama-single-serving-websites/)
+- [How to Order Eggs](http://hansonwu.com/howtoordereggs)
+- [Books on Graphic Design (and Typography)](https://booksongraphicdesign.com)
 
 ## Tools
 
