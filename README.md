@@ -71,10 +71,10 @@ This advanced course introduces students to the concepts and techniques of inter
 8. [Week 8](#week-8), March 13
 9. [Week 9](#week-9), March 20
 10. [Week 10](#week-10) March 27
-11. April 3
-12. April 10
-13. April 17
-14. April 24
+11. [Week 11](#week-11) April 3
+12. [Week 12](#week-12) April 10
+13. [Week 13](#week-13)April 17
+14. [Week 14](#week-14) April 24
   - **Final Grades Due** — May 8 (10:00 am)
 
 ## Week 1
@@ -253,8 +253,34 @@ This advanced course introduces students to the concepts and techniques of inter
 
 - Project 1, Recipe Markup
   - **Reminder:** Complete scoring rubric tasklist (in the Issues tab of your project repo), if you haven't done so already
-- Project 2, Theme Style, due next week — Wednesday, April 3
-- Project 3, [Single Serving](#single-serving) — starts now (due April 24)
+- Project 2, Theme Style, due next week — [Week 13](#week-13) April 17
+- Project 3, [Single Serving](#single-serving) — starts now (due [Week 14](#week-14) April 24)
+
+## Week 11
+
+- In class work session
+- Bootstrap grid layout and Google web fonts demo
+
+## Week 12
+
+- In class work session
+
+### Using Web Fonts
+
+- [How to use Google Fonts in your next web design project](https://medium.freecodecamp.org/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa)
+- [Understanding Web Fonts and Getting the Most Out of Them](https://css-tricks.com/understanding-web-fonts-getting/) — Without using a font service such as Google Fonts
+
+## Week 13
+
+- [Single Serving](#single-serving) show and tell
+
+## Week 14
+
+- **Last Day of Class**
+- Class Lunch (Make Project 1 recipes and bring them in to share, eat, and celebrate)
+- All projects due *(Extension: By end of day Tuesday, May 7)*
+- Final Exam
+- **Final Grades Due** — May 8 (10:00 am)
 
 ## Projects
 
