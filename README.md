@@ -73,7 +73,7 @@ This advanced course introduces students to the concepts and techniques of inter
 10. [Week 10](#week-10) March 27
 11. [Week 11](#week-11) April 3
 12. [Week 12](#week-12) April 10
-13. [Week 13](#week-13)April 17
+13. [Week 13](#week-13) April 17
 14. [Week 14](#week-14) April 24
   - **Final Grades Due** — May 8 (10:00 am)
 
