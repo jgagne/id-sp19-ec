@@ -277,9 +277,17 @@ This advanced course introduces students to the concepts and techniques of inter
 ## Week 14
 
 - **Last Day of Class**
-- Class Lunch (Make Project 1 recipes and bring them in to share, eat, and celebrate)
-- All projects due *(Extension: By end of day Tuesday, May 7)*
-- Final Exam
+  - 1:30–2:00 p.m. — Class lunch (Make Project 1 recipes and bring them in to share, eat, and celebrate)
+  - 2:00–2:30 p.m. — Single Serving showdown
+  - 2:30-4:30 p.m. — Final extra credit and/or update all projects (and rubric task lists)
+  - Complete coure eval before you leave, please
+- **All Projects Due** *(Extension via Slack: **By end of day Tuesday, May 7**)*
+  - Post in the `#final-repos` channel using this format:
+      - https://github.com/username/d
+        1. https://github.com/username/project-1
+        2. https://github.com/username/project-2
+        3. https://github.com/username/project-3
+        4. https://github.com/username/final-extra-credit
 - **Final Grades Due** — May 8 (10:00 am)
 
 ## Projects
