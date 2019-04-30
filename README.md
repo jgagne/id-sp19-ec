@@ -384,6 +384,10 @@ Browsers *other than* Chrome (or Safari). See [Switchin’ to Firefox](https://r
 - [Colorable](http://jxnblk.com/colorable/demos/text/)
 - [Contraste](https://contrasteapp.com) (Mac only)
 
+### Color Palette Tools
+
+- [Color Designer](https://colordesigner.io)
+
 ### CSS Tools
 
 - [Blendy](https://blendy.ml) CSS background blend modes preview tool.
